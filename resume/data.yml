@@ -2,42 +2,25 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Cristal
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Villalba
+about: Hi folks, my name is Cristal Villalba. I'm Biologist, Msc. in Genetics and Molecular Biology, PhD candidate in Genetics and Molecular Biology with emphasis on Bioinformatics.
+       Besides, I'm Jedi and Master Pokemon (dragon and dark types are the best). I am not a robot. Please hire me.
+position: Bioinformatician - Data Scientist
 
 birth:
-  year: 1990
-  location: New York
+  year: 1994
+  location: Buenos Aires
 
 # you may add more experiences by duplicating the template
 
-experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
-
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
-
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Master of Genetics and Molecular Biology
+  timeperiod: November 2016 - August 2018
+  description: Bioinformatics aplly to study 3'UTR region of the BTD gene and miRNAs
+  website: http://www.ufrgs.br/ppgbm/ensino-e-pesquisa/corpo-discente/page/5/
 
 - degree: Bachelor of Science
   timeperiod: March 2009 - December 2011
