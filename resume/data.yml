@@ -19,63 +19,42 @@ birth:
 education:
 - degree: Master of Genetics and Molecular Biology
   timeperiod: November 2016 - August 2018
-  description: Bioinformatics aplly to study 3'UTR region of the BTD gene and miRNAs
+  description: Bioinformatics aplly to study 3'UTR region of the BTD gene and miRNAs, Graduate Program in Genetics and Molecular Biology, Federal University of Rio Grande do Sul - UFRGS, Porto Alegre, Brazil.
   website: http://www.ufrgs.br/ppgbm/ensino-e-pesquisa/corpo-discente/page/5/
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Biological Sciences
+  timeperiod: March 2011 - April 2015
+  description: Major in Biological Sciences, UNIPAMPA - IFFAR University, Alegrete, RS, Brazil.
 
 # skill level goes from 0 to 100
 skills:
 - name: HTML5
-  level: 99
+  level: 85
 - name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
   level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+- name: R
+  level: 97
+- name: Python
+  level: 85
+- name: MySql
+  level: 60
+- name: Markdown
+  level: 80
 
-projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+knowledge: Also proficient in Adobe Photoshop and Illustrator, Biorender and Canva. Sometimes, Wikipedia and Scholia editor. Grew up bilingual
+  (English and Klingon). Maybe Spanish and Japanese.
+
 
 # optional, not all resume templates have hobbies included
 hobbies:
 - name: Video Games
   iconClass: fa fa-gamepad
-  url: https://example.com
+  url: https://www.twitch.tv/helennis
 
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
-
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: cristal.villalba@hotmail.com    /    gcvsilva@hcpa.edu.br
+  github: Kur1sutaru
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
